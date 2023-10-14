@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EdkoEdko
-- 👀 I’m interested in Programming
-- 🌱 I’m currently studying Software Engineering
+👋 Hi, I’m Edko
+👀 I’m interested in Programming
+🌱 I’m currently studying Software Engineering
 
 Main Goal: 
 Programm my first Application
